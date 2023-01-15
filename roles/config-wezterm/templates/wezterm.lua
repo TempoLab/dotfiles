@@ -45,7 +45,7 @@ return {
   switch_to_last_active_tab_when_closing_tab = true,
 
   -- All systems
-  font = wezterm.font "Berkeley Mono",
+  -- font = wezterm.font "Berkeley Mono",
   font_size = is_windows and 16.0 or 18.0,
   color_scheme = "{{ theme_wezterm }}",
 

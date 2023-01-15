@@ -1,0 +1,4 @@
+- name: Install libyaml on macOS
+  homebrew: 
+    name: libyaml
+    state: present

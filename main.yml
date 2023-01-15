@@ -49,7 +49,7 @@
     # Deno packages it's own LSP as part of it's binary
     - {role: deno, tags: ['deno']}
     - {role: node, tags: ['node', 'lsp_node']}
-    - {role: ruby, tags: ['ruby', 'ruby_lsp']}
+    # - {role: ruby, tags: ['ruby', 'ruby_lsp']}
     - {role: rust, tags: ['rust', 'lsp_rust']}
   
     # LSP (for Helix)
@@ -58,5 +58,5 @@
     - {role: lsp_go, tags: ['lsp_go']}
     - {role: lsp_rust, tags: ['lsp_rust']}
     - {role: lsp_node, tags: ['lsp_node']}
-    - {role: lsp_ruby, tags: ['lsp_ruby']}
+    # - {role: lsp_ruby, tags: ['lsp_ruby']}
   
