@@ -4,9 +4,9 @@ nap_default_extension: ts
 # Themes
 theme_nap: catppuccin-mocha
 theme_bat: Catppuccin-mocha
-theme_helix: catppuccin_mocha
+theme_helix: tokyonight
 theme_glamour: mocha.json
-theme_wezterm: "Catppuccin Mocha"
+theme_wezterm: "tokyonight"
 
 # Colors
 
